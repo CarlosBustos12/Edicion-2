@@ -4,7 +4,7 @@ Este **README** trata de como compilar el Libro del curso srd para poder verlo e
 para comenzar debemos hacer un git clone del libro directamente del repositorio 
 desde la cosola 
 ```
-git clone git@github.com:microondas901/Edicion-1-.git
+git clone https://github.com/microondas901/Edicion-2.git
 ```
 seguido de esto debemos  de  tener instalado otras 2 herramientas para poder compilar el libro 
 
@@ -53,6 +53,6 @@ make
 que en este caso se veria asi:
 
 ```
-Edicion-1--master$ make
+Edicion-2-master$ make
 ```
 damos enter y esperamos unos minutos mientras se compila nuestro libro 
